@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leizou.github.io/zzll/</id>
     <title>邹磊ZouL</title>
-    <updated>2019-06-29T09:59:58.669Z</updated>
+    <updated>2019-06-29T16:10:42.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leizou.github.io/zzll/"/>
     <link rel="self" href="https://leizou.github.io/zzll//atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://leizou.github.io/zzll//images/avatar.png</logo>
     <icon>https://leizou.github.io/zzll//favicon.ico</icon>
     <rights>All rights reserved 2019, 邹磊ZouL</rights>
+    <entry>
+        <title type="html"><![CDATA[地铁一公里]]></title>
+        <id>https://leizou.github.io/zzll//post/zhifubao</id>
+        <link href="https://leizou.github.io/zzll//post/zhifubao">
+        </link>
+        <updated>2019-06-30T15:52:17.000Z</updated>
+        <content type="html"><![CDATA[<p>支付宝项目</p>
+<p><img src="https://leizou.github.io/zzll//post-images/1561823807672.gif" alt="">
+<img src="https://leizou.github.io/zzll//post-images/1561823813867.gif" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图像之上的可视化]]></title>
         <id>https://leizou.github.io/zzll//post/ji-yu-gridea</id>
