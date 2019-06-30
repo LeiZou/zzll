@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leizou.github.io/zzll/</id>
     <title>邹磊ZouL</title>
-    <updated>2019-06-29T16:10:42.714Z</updated>
+    <updated>2019-06-30T04:37:40.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leizou.github.io/zzll/"/>
     <link rel="self" href="https://leizou.github.io/zzll//atom.xml"/>
@@ -27,7 +27,8 @@
         <link href="https://leizou.github.io/zzll//post/ji-yu-gridea">
         </link>
         <updated>2019-06-28T16:39:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://leizou.github.io/zzll//post-images/1561739995543.png" alt="">
+        <content type="html"><![CDATA[<p><strong>当图像被可视化之后，在可视化</strong>
+<img src="https://leizou.github.io/zzll//post-images/1561739995543.png" alt="">
 <img src="https://leizou.github.io/zzll//post-images/1561740238194.png" alt=""></p>
 ]]></content>
     </entry>
