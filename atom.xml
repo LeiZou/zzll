@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leizou.github.io/zzll/</id>
     <title>邹磊ZouL</title>
-    <updated>2020-01-25T05:45:58.585Z</updated>
+    <updated>2020-01-25T08:24:29.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leizou.github.io/zzll/"/>
     <link rel="self" href="https://leizou.github.io/zzll//atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://leizou.github.io/zzll//images/avatar.png</logo>
     <icon>https://leizou.github.io/zzll//favicon.ico</icon>
     <rights>All rights reserved 2020, 邹磊ZouL</rights>
+    <entry>
+        <title type="html"><![CDATA[数据盛典现场PPT转换页设计]]></title>
+        <id>https://leizou.github.io/zzll//post/数据盛典</id>
+        <link href="https://leizou.github.io/zzll//post/数据盛典">
+        </link>
+        <updated>2019-12-20T05:49:33.000Z</updated>
+        <content type="html"><![CDATA[<p>12月20日是CBNdata一年一度的数据盛典，盛典现场会发布每年一度的互联网生态消费大数据报告。<br>
+今年的数据盛典现场PPT，DT数据可视化小组参与了其中的可视化文字数据创新！<br>
+基于牛顿第二定律 F=ma  核心加速度a<br>
+我们用a去影响线(企业)的纵线变化形成了“山”！<br>
+<img src="https://leizou.github.io/zzll//post-images/1579940568211.gif" alt=""><br>
+我们用17000粒子(企业)在加速a的影响下形成“风”！<br>
+<img src="https://leizou.github.io/zzll//post-images/1579940514149.gif" alt=""><br>
+<img src="https://leizou.github.io/zzll//post-images/1579931755526.JPG" alt=""><br>
+我们通过读取图像像素的亮度值(企业)，形成了龙！<br>
+<img src="https://leizou.github.io/zzll//post-images/1579940346382.gif" alt=""><br>
+我们基于可视化的数据理念去赋予文字于活力！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么是金鸡奖]]></title>
         <id>https://leizou.github.io/zzll//post/jingjijiang</id>
